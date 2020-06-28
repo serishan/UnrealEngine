@@ -1,0 +1,8 @@
+{
+	"BuildId": "10570792",
+	"Modules": 
+	{
+		"KDBPLibrary": "UE4Editor-KDBPLibrary.dll",
+		"MultiWindow": "UE4Editor-MultiWindow.dll"
+	}
+}

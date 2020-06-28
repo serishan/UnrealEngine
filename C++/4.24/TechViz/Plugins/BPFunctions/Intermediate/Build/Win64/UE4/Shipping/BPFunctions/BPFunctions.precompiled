@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.BPFunctions.cpp.obj",
+		"Module.BPFunctions.gen.cpp.obj"
+	]
+}

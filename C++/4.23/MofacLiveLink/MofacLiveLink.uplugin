@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MofacLiveLink",
+	"Description": "Add Easy Access Blueprint nodes for Live Link",
+	"Category": "Other",
+	"CreatedBy": "Kidon Kim",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.23.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MofacLiveLink",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"BlacklistPlatforms": [
+				"IOS",
+				"HTML5",
+				"Android",
+				"Linux"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "LiveLink",
+			"Enabled": true
+		}
+	]
+}

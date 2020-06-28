@@ -1,0 +1,9 @@
+{
+	"BuildId": "8386587",
+	"Modules": 
+	{
+		"CameraConverter": "UE4Editor-CameraConverter.dll",
+		"MultiWindow": "UE4Editor-MultiWindow.dll",
+		"VP_Tools": "UE4Editor-VP_Tools.dll"
+	}
+}
